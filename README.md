@@ -1,1 +1,2 @@
-# Nogovitsin_Mikhail_Denisovich_RIS-25-2b_LabsPTSU
+# include "iostraem";
+## print('привет мир');
