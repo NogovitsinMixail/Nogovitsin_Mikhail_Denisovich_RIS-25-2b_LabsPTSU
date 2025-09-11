@@ -16,4 +16,4 @@
 - [ ] ~
 - [ ] ~
 <http://pstu.ru>
-[ссылка(http://pstu.ru) 
+[ссылка(http://pstu.ru "суды") 
