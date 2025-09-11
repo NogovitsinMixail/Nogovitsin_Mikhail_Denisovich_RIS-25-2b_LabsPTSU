@@ -18,5 +18,5 @@
 <http://pstu.ru>        
 [ссылка1](http://pstu.ru "суды")       
 [ссылка2][url.pstu]
-[url.pstu]:http://pstu.ru "суды"     
+[url.pstu]: http://pstu.ru "суды"     
 
