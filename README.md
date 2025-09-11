@@ -15,5 +15,8 @@
 - [X] ~
 - [ ] ~
 - [ ] ~
-<http://pstu.ru>;
-[ссылка](http://pstu.ru "суды") 
+<http://pstu.ru>        
+[ссылка1](http://pstu.ru "суды")       
+[ссылка2][url.pstu]
+[url.pstu]: aefsefs "не суды"[ссылка1](http://pstu.ru "суды")     
+
