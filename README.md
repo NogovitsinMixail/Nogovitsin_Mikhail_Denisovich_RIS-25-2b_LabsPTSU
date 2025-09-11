@@ -31,6 +31,21 @@
 
 ![img1](https://avatars.mds.yandex.net/i?id=4880917010586e4d970473fa4dba6ba7a470a8ae-4471740-images-thumbs&n=13 "driving in my car")
 
+
+
+табл:
+|1|2|
+|3|4|
+|4|5|
+
+
+
+
+
+
+
+
+
 ```c
 #include<stdion.h>
 int main(){
